@@ -1,0 +1,2 @@
+# DjangoPollsApp
+Followed Django documentation
